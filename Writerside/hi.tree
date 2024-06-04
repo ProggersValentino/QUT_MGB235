@@ -7,10 +7,11 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="MGB235.md">
+        <toc-element topic="Week-7.md"/>
+        <toc-element topic="Week11.md"/>
         <toc-element topic="Week1.md">
             <toc-element topic="Lecture-Notes.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Week-7.md"/>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>
