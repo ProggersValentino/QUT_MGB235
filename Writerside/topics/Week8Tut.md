@@ -3,14 +3,15 @@
 ## Supply Chain Key points
 - A supply chain consists of all of the organizations, facilities, functions, and activities involved in producing a product or providing a service.
 
-- The basic components of supply chain management are strategy formulation,  [procurement](Week-7.md#procurement_id "To source suppliers and purchasing goods or services from those suppliers which there are 4 key different methods"), 
-[supply management](Week8.md#SCM_id), [demand management](Week8.md#SCM_id), and [logistics management](Week-7.md#dist_id). 
-- The key issues in supply chain management relate to determining the appropriate level of 
-outsourcing, managing procurement, managing suppliers, managing customer relationships, being able to quickly identify problems and respond to them, and managing risk.
+- The basic components of supply chain management are strategy formulation,  [procurement](Week8.md#procurement_id "To source suppliers and purchasing goods or services from those suppliers which there are 4 key different methods"),
+  [supply management](Week8.md#SCM_id), [demand management](Week8.md#SCM_id), and [logistics management](Week8.md#dist_id).
+- The key issues in supply chain management relate to determining the appropriate level of
+  outsourcing, managing procurement, managing suppliers, managing customer relationships, being able to quickly identify problems and respond to them, and managing risk.
 
 
-- The goal of supply chain management is to match supply and demand as effectively 
-and efficiently as possible. Because supply chains are made up of multiple organizations, cooperation and collaboration among supply chain partners is very important. 
+
+- The goal of supply chain management is to match supply and demand as effectively
+  and efficiently as possible. Because supply chains are made up of multiple organizations, cooperation and collaboration among supply chain partners is very important.
 - Supply chain functioning benefits from mutual trust, information sharing, and collaborative forecasting and planning.
 
 - Recent trends in supply chain management relate to managing risk, re-evaluating outsourcing, managing inventories, and applying lean principles to improve supply chain performance.

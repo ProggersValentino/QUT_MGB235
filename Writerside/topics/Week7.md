@@ -1,6 +1,6 @@
 # MGB235 Lecture 7 – 16/4/2024
 
-## 1\. Process Planning
+## 1. Process Planning
 
 - **Process**
   - Group of related tasks with specific inputs & outputs
@@ -74,7 +74,6 @@ decision)
 
 ### Process Selection
 
-#### Process selection
 
 - - **Refers to deciding on the way production of goods or services will be organized**
     - **It has major implications for**
