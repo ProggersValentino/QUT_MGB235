@@ -4,12 +4,10 @@
 - A supply chain consists of all of the organizations, facilities, functions, and activities involved in producing a product or providing a service.
 
 - The basic components of supply chain management are strategy formulation,  [procurement](Week-7.md#procurement_id "To source suppliers and purchasing goods or services from those suppliers which there are 4 key different methods"), 
-[supply management](Week-7.md#SCM_id), [demand management](Week-7.md#SCM_id), and [logistics management](Week-7.md#dist_id). 
+[supply management](Week8.md#SCM_id), [demand management](Week8.md#SCM_id), and [logistics management](Week-7.md#dist_id). 
 - The key issues in supply chain management relate to determining the appropriate level of 
 outsourcing, managing procurement, managing suppliers, managing customer relationships, being able to quickly identify problems and respond to them, and managing risk.
-<a href="Week-7.md#procurement_id">Procurement</a>
 
-[link to procurement](Week-7.md#procurement_id)
 
 - The goal of supply chain management is to match supply and demand as effectively 
 and efficiently as possible. Because supply chains are made up of multiple organizations, cooperation and collaboration among supply chain partners is very important. 
