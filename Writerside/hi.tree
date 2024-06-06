@@ -9,13 +9,15 @@
     <toc-element topic="MGB235.md">
         <toc-element topic="week9.md"/>
         <toc-element topic="Week8.md">
+            <toc-element topic="Week8Tut.md"/>
         </toc-element>
         <toc-element topic="Week11.md"/>
         <toc-element topic="Week1.md">
             <toc-element topic="Lecture-Notes.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Week8Tut.md"/>
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="Week7.md"/>
+    <toc-element topic="Week10.md"/>
+    <toc-element topic="Week12.md"/>
 </instance-profile>

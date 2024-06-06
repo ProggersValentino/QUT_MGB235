@@ -9,7 +9,7 @@
 5. Methods for prioritizing the importance of inventory items;
 6. Monitoring and controlling independent demand using fixed order quantities - FQS;
 
-<http://www.smh.com.au/business/retail/dick-smith-was-selling-too-many-products-former-chairman-phillip-cave-tells-court-20161004-gruc7i.html>
+<a href="http://www.smh.com.au/business/retail/dick-smith-was-selling-too-many-products-former-chairman-phillip-cave-tells-court-20161004-gruc7i.html">Dicky Smith</a>
 
 ## What is Inventory?
 
@@ -39,16 +39,8 @@ The role of inventory in the value chain, emphasizing how inventory must be mana
 - _Finished goods inventory (FG):_ completed products ready for distribution or sale to customers.
 - _Items being transported_
 
-## The Different Types of Inventory
-
-### Basic Inventory Concepts
-
 - **_Pipeline inventory:_** inventory that has been ordered but not yet received and is in transit.
 - **_Anticipation inventory:_** built up during the off-season to meet future estimated demand.
-
-## The Different Types of Inventory
-
-### Basic Inventory Concepts
 
 - **_Cycle inventory (order or lot size inventory):_** inventory that results from purchasing or producing in larger lots than are needed for immediate consumption or sale.
 - **_Safety stock inventory:_** an additional amount of inventory that is kept over and above the average amount required to meet demand.
@@ -100,8 +92,6 @@ The role of inventory in the value chain, emphasizing how inventory must be mana
     - **Static demand**: stable demand.
     - **Dynamic demand**: varies over time (for information only).
 
-### Characteristics of Inventory Systems
-
 - **Number of time periods in planning horizon:** short or long planning horizon such as days, weeks, months, quarters, and years.
 - **Size of time periods:** hours, days, weeks, months, quarters.
 - **Lead time:** time between placement of an order and its receipt.
@@ -120,7 +110,7 @@ The role of inventory in the value chain, emphasizing how inventory must be mana
 
 - **_Telematic diagnostic and monitoring systems:_** two-way wireless communication capabilities between equipment and its external environment.
 - **_Radio frequency identification (RFID) tags_** (chips) embedded in packaging, products or shipping containers to constantly update the status of the SKU.
-- <https://www.youtube.com/watch?v=gEQJxNDSKAE>
+- <a href="https://www.youtube.com/watch?v=gEQJxNDSKAE">some link</a>
 
 ## Prioritizing the importance of inventory items
 
@@ -138,7 +128,7 @@ Four categories of inventory costs:
         3.  Shortage costs
         4.  Unit cost of the stock-keeping units (SKUs)
 
-### Inventory Management Infrastructure
+### Inventory Management Infrastructure continued
 
 - **ABC inventory (Pareto) analysis** gives managers useful information to identify the best methods to control each category of inventory
 - A vital few SKUs represent a high percentage of the total dollar inventory value.
