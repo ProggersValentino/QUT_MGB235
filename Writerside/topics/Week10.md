@@ -187,7 +187,7 @@ _Annual Ordering Cost = Number of Orders Per Year \* Cost Per year = (D/Q)_ _C<s
 
 _D annual demand_
 
-**_C<sub>o</sub>_** _internal cost assessment e.g. from order placement to order receipt_
+_C<sub>o</sub> internal cost assessment e.g. from order placement to order receipt_
 
 _Q_ _number of units in the fixed order \*_
 
@@ -205,11 +205,15 @@ _C<sub>o</sub>_ - cost of placing order _D_ - annual demand
 
 _C<sub>c</sub>_ - annual per-unit carrying cost _Q_ - order quantity
 
+TC= (0.5 \* Q) _C<sub>c</sub>_ +(D/Q) \* _C<sub>o</sub>_
+
 But we don’t know the economic order quantity (_Q_)?
 
 ### You need to be able to apply the EOQ Model
 
 **Q\*** is the quantity that minimizes the total cost and is known as the _economic order quantity._
+
+EOQ=√((2D _C<sub>o</sub>_)/ _C<sub>c</sub>_)
 
 ## Example: EOQ & simplified reorder point
 
@@ -225,13 +229,17 @@ A wholesaler of consumer electronics operates 52 weeks per year. The following i
 
 1\. Using the fixed order quantity system to control inventory, compute the EOQ and state your ordering decision rules.
 
-\= 346.4 units
+EOQ=√((2D _C<sub>o</sub>_)/ _C<sub>c</sub>_)=√((2(4500)40)/3)= 346.4 units
 
 2\. Compute the reorder point and state the order decision rule
+
+R=dL= (4500/52)\*2=173.08
 
 Order decision rule: Place a new order for 346 units when the inventory position drops to or past the reorder point of 1741 units.
 
 1. Compute the total annual cost: inventory holding cost plus the ordering cost:
+
+TC= (0.5 \* Q) _C<sub>c</sub>_ +(D/Q) \* _C<sub>o</sub>_
 
 TC = (346/2)\*3 + (4,500/346)\*40 = $519 + $519 = $1,038
 
