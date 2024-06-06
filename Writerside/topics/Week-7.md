@@ -61,11 +61,12 @@ reverse flow of goods, services, cash, and information.
 -	Demand management
 -	Product management
 
-## Supply Chain Management (SCM)
+## Supply Chain Management (SCM) {id="SCM_id"}
 - The strategic coordination of business functions within a business 
 organization and throughout its supply chain for the purpose of integrating supply
 and demand management (Stevenson, 2021)
--	Managing flow of information through supply chain in order to attain the level of synchronization that will make it more responsive to customer needs while lowering costs
+
+- Managing flow of information through supply chain in order to attain the level of synchronization that will make it more responsive to customer needs while lowering costs
 -	Keys to effective SCM
 -	information
 -	communication
@@ -220,7 +221,7 @@ Metrics used to measure supply chain performance
 
 
 
-## Procurement
+## Procurement {id="procurement_id"}
 -	The purchase of goods and services from suppliers
 -	On-demand (direct-response) delivery
 	- requires the supplier to deliver goods when demanded by the customer
@@ -265,7 +266,7 @@ Procurement Strategy in designing the supply chain
 	 - process used by e-marketplaces for buyers to purchase items; company posts orders on the internet for suppliers to bid on
 
 
-## Distribution
+## Distribution {id="dist_id"}
 -	Encompasses all channels, processes, and functions, including warehousing and transportation, that a product passes on its way to final customer
 -	Order fulfillment
 	 - process of ensuring on-time delivery of an order
