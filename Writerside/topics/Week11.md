@@ -86,7 +86,7 @@ It can help synchrnize flow throughout the supply chain; it affects costs, equip
 
 3. Maintaining resources (staffing) for high levels of customer service
 
-![pure.png](pure.png)
+![pure.png](../images/pure.png)
 
 <format style="bold">Overtime and under-time</format>
 
