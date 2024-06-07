@@ -78,3 +78,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v4.1.7
+            
