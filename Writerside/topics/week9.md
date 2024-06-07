@@ -184,26 +184,26 @@ Indicates how far into the future is forecast
 
 - demand in current period is used as next period’s forecast
 
-![nativeforecastmoeavg.png](nativeforecastmoeavg.png)
+![nativeforecastmoeavg.png](../images/nativeforecastmoeavg.png)
 
 <format style="bold">Simple moving average </format>
 
 - uses average demand for a fixed sequence of periods
 - stable demand with no pronounced behavioral patterns
 
-![simplemoveavg.png](simplemoveavg.png)
+![simplemoveavg.png](../images/simplemoveavg.png)
 
 <format style="bold">3-month Simple Moving Average</format>
 
-![3monthsimpleavg.png](3monthsimpleavg.png)
+![3monthsimpleavg.png](../images/3monthsimpleavg.png)
 
 <format style="bold">5-month Simple Moving Average</format>
 
-![5monthmoveavg.png](5monthmoveavg.png)
+![5monthmoveavg.png](../images/5monthmoveavg.png)
 
 <format style="bold">Smoothing Effects</format>
 
-![smootheffects.png](smootheffects.png)
+![smootheffects.png](../images/smootheffects.png)
 
 <format style="bold">Weighted moving average</format>
 
@@ -211,11 +211,11 @@ Indicates how far into the future is forecast
 
 - Adjusts moving average method to more closely reflect data fluctuations
 
-![weightmoveavgequa.png](weightmoveavgequa.png)
+![weightmoveavgequa.png](../images/weightmoveavgequa.png)
 
 <format style="bold">Weighted Moving Average Example</format>
 
-![weightedaverageeg.png](weightedaverageeg.png)
+![weightedaverageeg.png](../images/weightedaverageeg.png)
 
 ### Exponential Smoothing
 - Averaging method
@@ -225,17 +225,17 @@ Indicates how far into the future is forecast
 
 <format style="bold">Exponential Smoothing</format>
 
-![expotentialsmoothequa.png](expotentialsmoothequa.png)
+![expotentialsmoothequa.png](../images/expotentialsmoothequa.png)
 
 <format style="bold">Effect of Smoothing Constant</format>
 
-![effectofsmoothing.png](effectofsmoothing.png)
+![effectofsmoothing.png](../images/effectofsmoothing.png)
 
 ### Seasonal Adjustments
 - Repetitive increase/ decrease in demand
 - Use seasonal factor to adjust forecast
 
-![seasonfactorequa.png](seasonfactorequa.png)
+![seasonfactorequa.png](../images/seasonfactorequa.png)
 
 ### Forecast Accuracy
 <format style="bold"> Forecast error</format>
@@ -257,34 +257,34 @@ or At – Ft. </format>
 
 <format style="bold">Mean Square Error (MSE) </format>
 
-![meansquareerror.png](meansquareerror.png)
+![meansquareerror.png](../images/meansquareerror.png)
 
 <format style="bold">Mean Absolute Deviation Error (MAD)</format>
 
-![meanaberror.png](meanaberror.png)
+![meanaberror.png](../images/meanaberror.png)
 
-![meanabdeviationequa.png](meanabdeviationequa.png)
+![meanabdeviationequa.png](../images/meanabdeviationequa.png)
 
 <format style="bold">MAD Example</format>
 
-![MADEg.png](MADEg.png)
+![MADEg.png](../images/MADEg.png)
 
 <format style="bold">MAD Calculation</format>
 
-![MADCalcu.png](MADCalcu.png)
+![MADCalcu.png](../images/MADCalcu.png)
 
 <format style="bold">Mean Absolute Percentage Error (MAPE)</format>
 
-![meanabpercentageerror.png](meanabpercentageerror.png)
+![meanabpercentageerror.png](../images/meanabpercentageerror.png)
 
 
 <format style="bold">Other Accuracy Measures</format>
 
-![otheraccmeasure.png](otheraccmeasure.png)
+![otheraccmeasure.png](../images/otheraccmeasure.png)
 
 <format style="bold">Comparison of Forecasts</format>
 
-![comparisonforecast.png](comparisonforecast.png)
+![comparisonforecast.png](../images/comparisonforecast.png)
 
 ### Choosing a forecasting technique
 - Cost

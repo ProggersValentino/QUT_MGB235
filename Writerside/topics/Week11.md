@@ -201,8 +201,8 @@ Airlines, restaurants, hotels, restaurants
 	 - Percent of available time spent working
 -	Efficiency
 	 - How well a machine or worker performs compared to a standard output level
-
-![capcalcu.png](../images/apcalcu.png)
+	   
+![capcalcu.png](../images/capcalcu.png)
 
 - Load
 	- Standard hours of work assigned to a facility

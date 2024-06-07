@@ -23,15 +23,15 @@ reverse flow of goods, services, cash, and information.
 
 ## The differnt types of supply chains 
 ### Typical supply chain
-![typicalSupplyChain.png](typicalSupplyChain.png)
+![typicalSupplyChain.png](../images/typicalSupplyChain.png)
 
 ### The Supply chain structure
-![StructureSC.png](StructureSC.png)
+![StructureSC.png](../images/StructureSC.png)
 
-![ExampleSC.png](ExampleSC.png)
+![ExampleSC.png](../images/ExampleSC.png)
 
 ### Supply chain processes 
-![Processes.png](Processes.png)
+![Processes.png](../images/Processes.png)
 
 
 ## Supply Chains for Service Providers
@@ -46,7 +46,7 @@ reverse flow of goods, services, cash, and information.
 -	The value chain describes the categories of activities within an organisation, which, together, create a product or service.
 -	The value chain consists of five primary activities (which are directly concerned with the creation or delivery of a product or service) and four support activities (which help to improve the effectiveness or efficiency of primary activities).
 -	Competitive advantage can be analysed in any of these activities.
-![valuechain.png](valuechain.png)
+![valuechain.png](../images/valuechain.png)
 
 ### Value Chains 
   <format style="bold"> Value chain </format> 
@@ -159,7 +159,7 @@ and demand management (Stevenson, 2021)
 -	Eco-friendly packing materials
 -	Energy-efficient facilities
 -	Changing thermostat settings
-![ITSCEnable.png](ITSCEnable.png)
+![ITSCEnable.png](../images/ITSCEnable.png)
 
      
 ## E-Business & Supply Chain Management
@@ -192,20 +192,20 @@ and demand management (Stevenson, 2021)
 Metrics used to measure supply chain performance
 1. Inventory TurnOver
 
-![inventurneq.png](inventurneq.png)
+![inventurneq.png](../images/inventurneq.png)
 
 2. Total value (at cost) of inventory
 
-![totalvalueatcosteq.png](totalvalueatcosteq.png)
+![totalvalueatcosteq.png](../images/totalvalueatcosteq.png)
 
 3. Days of supply
 
-![daysofSupEq.png](daysofSupEq.png)
+![daysofSupEq.png](../images/daysofSupEq.png)
 
 4. Fill rate: fraction of order filled by a distribution center within a specific time period
 
 
-![egKPI.png](egKPI.png)
+![egKPI.png](../images/egKPI.png)
 
 ## Process Control and SCOR
 <format style="bold">	Process Control </format>
@@ -215,9 +215,9 @@ Metrics used to measure supply chain performance
 <format style="bold">	Supply Chain Operations Reference (SCOR) </format>
 -	a cross industry supply chain diagnostic tool maintained by the Supply Chain Council
 
-![SCORLevlProc.png](SCORLevlProc.png)
+![SCORLevlProc.png](../images/SCORLevlProc.png)
 
-![scorMetric.png](scorMetric.png)
+![scorMetric.png](../images/scorMetric.png)
 
 
 
