@@ -37,13 +37,15 @@
 
 It can help synchrnize flow throughout the supply chain; it affects costs, equipment utilization, employment levels, and customer satisfaction
 
-![salesprocessplan.png](salesprocessplan.png)
+![salesprocessplan.png](../images/salesprocessplan.png)
 
-![overviewaggregatepplan.png](overviewaggregatepplan.png)
+![overviewaggregatepplan.png](../images/overviewaggregatepplan.png)
 
-![mothlySOP.png](mothlySOP.png)
+![mothlySOP.png](../images/mothlySOP.png)
 
-![whatisDemand.png](whatisDemand.png)
+![whatisDemand.png](../images/whatisDemand.png)
+
+
 
 ### Meeting Demand Strategies
 <format style="bold">	Adjusting capacity </format>
@@ -68,17 +70,17 @@ It can help synchrnize flow throughout the supply chain; it affects costs, equip
 
 1. Producing at a constant rate and using inventory to absorb fluctuations in demand
 
-![levelprod.png](levelprod.png)
+![levelprod.png](../images/levelprod.png)
 
-![levelprodmath.png](levelprodmath.png)
+![levelprodmath.png](../images/levelprodmath.png)
 
 <format style="bold">Chase demand </format>
 
 2. Hiring and firing workers to match demand
 
-![chaseDemand.png](chaseDemand.png)
+![chaseDemand.png](../images/chaseDemand.png)
 
-![chasedemandmath.png](chasedemandmath.png)
+![chasedemandmath.png](../images/chasedemandmath.png)
 
 <format style="bold">Peak demand</format>
 
@@ -102,7 +104,7 @@ It can help synchrnize flow throughout the supply chain; it affects costs, equip
 
 7. Provide the service or product at a later time period
 
-![matchingsupdem.png](matchingsupdem.png)
+![matchingsupdem.png](../images/matchingsupdem.png)
 
 
 
@@ -121,9 +123,9 @@ It can help synchrnize flow throughout the supply chain; it affects costs, equip
 -	Breaking an Aggregate Plan into more detailed plans
 - Create Master Production Schedule for Material Requirements Planning
 
-![disaggreation.png](disaggreation.png)
+![disaggreation.png](../images/disaggreation.png)
 
-![heirarchalplanning.png](heirarchalplanning.png)
+![heirarchalplanning.png](../images/heirarchalplanning.png)
 
 ### Aggregate Planning for Services
 -	Most services cannot be inventoried
@@ -158,7 +160,7 @@ Airlines, restaurants, hotels, restaurants
 -	Customer Relationship Management (CRM)
 -	Supply Chain Management (SCM)
 
-![resourceplan.png](resourceplan.png)
+![resourceplan.png](../images/resourceplan.png)
 
 
 ### Material Requirements Planning (MRP)
@@ -171,9 +173,9 @@ Airlines, restaurants, hotels, restaurants
 -	Job shop production
 -	Assemble-to-order environments
 
-![DemaCharacteristic.png](DemaCharacteristic.png)
+![DemaCharacteristic.png](../images/DemaCharacteristic.png)
 
-![Matplanrequire.png](Matplanrequire.png)
+![Matplanrequire.png](../images/Matplanrequire.png)
 
 
 #### MRP Inputs and Outputs
@@ -200,14 +202,14 @@ Airlines, restaurants, hotels, restaurants
 -	Efficiency
 	 - How well a machine or worker performs compared to a standard output level
 
-![capcalcu.png](capcalcu.png)
+![capcalcu.png](../images/apcalcu.png)
 
 - Load
 	- Standard hours of work assigned to a facility
 - Load Percent
   	- Ratio of load to capacity
 
-![ratioofloadcap.png](ratioofloadcap.png)
+![ratioofloadcap.png](../images/ratioofloadcap.png)
 
 #### Example: Copy Courier
 - Two high-speed copiers that can be operated by one operator.
@@ -221,9 +223,9 @@ Airlines, restaurants, hotels, restaurants
 
 - 2 copiers * 2 shifts * 8 hrs/shift * 7/8 utilization * .90 efficiency = 1512 minutes/day
 
-![copycourier.png](copycourier.png)
+![copycourier.png](../images/copycourier.png)
 
-![loadcalcu.png](loadcalcu.png)
+![loadcalcu.png](../images/loadcalcu.png)
 
 <format style="bold" color="Aqua">Loading</format>
 
@@ -261,4 +263,4 @@ Increase efficiency to <format style="bold" color="brown">97%.</format>
 -	Load leveling
 	 - Process of balancing underloads and overloads
  
-![loadlevel.png](loadlevel.png)
+![loadlevel.png](../images/loadlevel.png)
