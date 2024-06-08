@@ -73,7 +73,7 @@ and demand management (Stevenson, 2021)
 -	cooperation
 -	Trust
 
-## Supply Chain {id="SupplyChainBegin"}
+## Supply Chain {id="SupplyChainBegin_id"}
 ### Uncertainty and Inventory
 <format style="bold">	A major objective of SCM: </format>
 -	respond to uncertainty in customer demand without creating costly excess inventory
@@ -101,7 +101,7 @@ and demand management (Stevenson, 2021)
 ![bullwhipEff.png](bullwhipEff.png)
 
 
-## Supply Chain Risks
+## Supply Chain Risks {id="supplychainrisks_id"}
 
 <format style="bold"> Supply chain disruption </format>
 -	Natural disasters
@@ -113,7 +113,7 @@ and demand management (Stevenson, 2021)
 <format style="bold">	Loss of control of sensitive information </format>
 -	If suppliers divulge sensitive information to competitors, it can weaken a firm’s competitive position
 
-## Risk Management
+## Risk Management {id="riskmanagement_id"}
 -	Involves identifying risks, assessing their likelihood of occurring and their potential impact and then developing strategies for addressing those risks
 
 <format style="bold">Strategies for addressing risk include: </format>
@@ -207,13 +207,23 @@ Metrics used to measure supply chain performance
 
 ![egKPI.png](../images/egKPI.png)
 
-## Process Control and SCOR
+## Process Control and SCOR {id="SCOR_id"}
 <format style="bold">	Process Control </format>
 -	not only for manufacturing operations
 -	can be used in any processes of supply chain
 
 <format style="bold">	Supply Chain Operations Reference (SCOR) </format>
 -	a cross industry supply chain diagnostic tool maintained by the Supply Chain Council
+
+- SCOR is about much more than individual
+  improvement projects. The ultimate objective of any
+  organization that deploys the SCOR model is to build
+  a superior supply chain that is integrated with the
+  overall organizational strategy. Aided by common
+  supply chain definitions, metrics, and strategies,
+  the integrated supply chain extends between and
+  beyond the walls of the organization that owns the
+  customer order.
 
 ![SCORLevlProc.png](../images/SCORLevlProc.png)
 
@@ -299,7 +309,7 @@ Procurement Strategy in designing the supply chain
 -	A first step towards supply chain collaboration
 -	Increased speed, reduced errors, and improved service
 
-## Collaborative Logistics and Distribution Outsourcing
+## Collaborative Logistics and Distribution Outsourcing {id="outsource_id"}
 -	Collaborative planning, forecasting, and replenishment create greater economies of scale
 -	Internet-based exchange of data and information
 -	Significant decrease in inventory levels and costs and more efficient logistics
@@ -344,7 +354,7 @@ Procurement Strategy in designing the supply chain
 -	Examples:
 [Freight Quote](https://www.freightquote.com)
 
-## Global Supply Chains
+## Global Supply Chains {id="globalsupplychain_id"}
 <format style="bold">Global supply chains</format>
 -	Product design often uses inputs from around the world
 -	Some manufacturing and service activities are outsourced to countries where labor and/or materials costs are lower
