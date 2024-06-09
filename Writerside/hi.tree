@@ -6,6 +6,7 @@
                  name="UniMarkDown"
                  start-page="Default-topic.md">
 
+    <toc-element topic="Week11-Tut.md"/>
     <toc-element topic="MGB235.md">
         <toc-element topic="week9.md"/>
         <toc-element topic="Week8.md">
