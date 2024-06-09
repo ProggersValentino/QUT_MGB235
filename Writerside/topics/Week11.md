@@ -107,7 +107,6 @@ It can help synchrnize flow throughout the supply chain; it affects costs, equip
 ![matchingsupdem.png](../images/matchingsupdem.png)
 
 
-
 ### Other Production Strategies:
 #### Mixed Strategy
 -	Combination of Level Production and Chase Demand strategies

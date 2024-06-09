@@ -228,19 +228,36 @@ Machine Controls
 
 ## 5S Workplace Scan
 
+[//]: # ()
 [//]: # (| 5S Scan | Goal | Eliminate or Correct |)
 
+[//]: # ()
 [//]: # (| --- | --- | --- |)
 
-[//]: # (| Seiri<br><br>&#40;_sort_&#41; | Keep only what you need | Unneeded equipment, tools, furniture; unneeded items on walls, bulletins; items blocking aisles or stacked in corners; unneeded inventory, supplies, parts; safety hazards |)
+[//]: # ()
+[//]: # (| Seiri&#40;_sort_&#41; | Keep only what you need | Unneeded equipment, tools, furniture; unneeded items on walls, bulletins; items blocking aisles or stacked in corners; unneeded inventory, supplies, parts; safety hazards |)
 
-[//]: # (| Seiton<br><br>&#40;_set in order_&#41; | A place for everything and everything in its place | Items not in their correct places; correct places not obvious; aisles, workstations, & equipment locations not indicated; items not put away immediately after use |)
+[//]: # ()
+[//]: # (| Seiton&#40;_set in order_&#41; | A place for everything and everything in its place | Items not in their correct places; correct places not obvious; aisles, workstations, & equipment locations not indicated; items not put away immediately after use |)
 
-[//]: # (| Seisou<br><br>&#40;_shine_&#41; | Cleaning, and looking for ways to keep clean and organized | Floors, walls, stairs, equipment, & surfaces not clean; cleaning materials not easily accessible; lines, labels, signs broken or unclean; other cleaning problems |)
+[//]: # ()
+[//]: # (| Seisou&#40;_shine_&#41; | Cleaning, and looking for ways to keep clean and organized | Floors, walls, stairs, equipment, & surfaces not clean; cleaning materials not easily accessible; lines, labels, signs broken or unclean; other cleaning problems |)
 
-[//]: # (| Seiketsu<br><br>&#40;_standardize_&#41; | Maintaining and monitoring the first three categories | Necessary information not visible; standards not known; checklists missing; quantities and limits not easily recognizable; items can’t be located within 30 seconds |)
+[//]: # ()
+[//]: # (| Seiketsu&#40;_standardize_&#41; | Maintaining and monitoring the first three categories | Necessary information not visible; standards not known; checklists missing; quantities and limits not easily recognizable; items can’t be located within 30 seconds |)
 
-[//]: # (| Shisuke<br><br>&#40;_sustain_&#41; | Sticking to the rules | Number of workers without 5S training; number of daily 5S inspections not performed; number of personal items not stored; number of times job aids not available or up-to-date |)
+[//]: # ()
+[//]: # (| Shisuke&#40;_sustain_&#41; | Sticking to the rules | Number of workers without 5S training; number of daily 5S inspections not performed; number of personal items not stored; number of times job aids not available or up-to-date |)
+
+[//]: # ()
+
+| 5S Scan | Goal                    | Eliminate or Correct                                                                                                                                                       |
+|---------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Seiri(_sort_) | Keep only what you need | Unneeded equipment, tools, furniture; unneeded items on walls, bulletins; items blocking aisles or stacked in corners; unneeded inventory, supplies, parts; safety hazards |
+| Seiton(_set in order_)| A place for everything and everything in its place| Items not in their correct places; correct places not obvious; aisles, workstations, & equipment locations not indicated; items not put away immediately after use         |
+| Seisou(_shine_)        | Cleaning, and looking for ways to keep clean and organized | Floors, walls, stairs, equipment, & surfaces not clean; cleaning materials not easily accessible; lines, labels, signs broken or unclean; other cleaning problems          |
+| Seiketsu(_standardize_)| Maintaining and monitoring the first three categorie| Necessary information not visible; standards not known; checklists missing; quantities and limits not easily recognizable; items can’t be located within 30 seconds        |
+| Shisuke(_sustain_)| Sticking to the rules| Number of workers without 5S training; number of daily 5S inspections not performed; number of personal items not stored; number of times job aids not available or up-to-date |
 
 ## Benefits of Lean Production
 
